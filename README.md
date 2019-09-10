@@ -21,12 +21,12 @@
 #### Implementing Data Warehouses in AWS
 	1. Understand the Redshift architecture
 	2. Run an ETL processs to extract data from S3 into Redshift
-	3. Setup AWS infrastructure using Infrastructure as Code (IaC()
+	3. Setup AWS infrastructure using Infrastructure as Code (IaC)
 	4. Use dist and sort key to optimize a table
 
 ### Course 3: Data Lakes with Spark
 #### The Power of Spark
-	1. Understnd the power of spark in the big data world and when not to use Spark
+	1. Understand the power of spark in the big data world and when not to use Spark
 #### Data Wrangling with Spark 
 	1. Manipulate data with SparkSQL and Dataframes
 	2. Use Spark in ETL 
@@ -45,6 +45,6 @@
 	2. Partition data to build data pipelines
 	3. Ensure data quality with checks
 #### Production Data Pipelines
-	1. Build maintainable data pipelines
+	1. Build maintainable and reusable data pipelines
 	2. Implement subDAGs
 	3. Setup task boundaries and montior data pipelines
