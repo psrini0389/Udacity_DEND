@@ -1,7 +1,7 @@
 ## Udacity Data Engineering NanoDegree - DEND
 Design Data Models, build data warehouses and data lakes, automate data pipelines while working with massive datasets. 
 
-### Course 1: Data Modeling
+### Lesson 1: Data Modeling
 #### Intro to Data Modeling
 	1. Identify the different types of databases and storage techniques
 	2. Create a table in Postgres and Apache Cassandra
@@ -12,7 +12,7 @@ Design Data Models, build data warehouses and data lakes, automate data pipeline
 	1. Understand when to use NoSQL databases and their difference from relational databases
 	2. Create a NoSQL database in Apache Cassandra
 
-### Course 2: Cloud Data Warehouses
+### Lesson 2: Cloud Data Warehouses
 #### Intro to Data Warehouses
 	1. Run an ETL process to denormalize a database (3NF to Star schema)
 	2. Create an OLAP cube from facts and dimensions
@@ -26,7 +26,7 @@ Design Data Models, build data warehouses and data lakes, automate data pipeline
 	3. Setup AWS infrastructure using Infrastructure as Code (IaC)
 	4. Use dist and sort key to optimize a table
 
-### Course 3: Data Lakes with Spark
+### Lesson 3: Data Lakes with Spark
 #### The Power of Spark
 	1. Understand the power of spark in the big data world and when not to use Spark
 #### Data Wrangling with Spark 
@@ -38,7 +38,7 @@ Design Data Models, build data warehouses and data lakes, automate data pipeline
 	1. Implement data lakes on Amazon S3, EMR, Athena and Amazon Glue
 	2. Understand the components and drawbacks of data lakes
 
-### Course 4: Data Pipelines with Airflow
+### Lesson 4: Data Pipelines with Airflow
 #### Data Pipelines
 	1. Create Data Pipelines with Apache Airflow
 	2. Use hooks to create data connections and set dependencies
