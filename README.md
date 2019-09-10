@@ -1,4 +1,6 @@
 ## Udacity Data Engineering NanoDegree - DEND
+Design Data Models, build data warehouses and data lakes, automate data pipelines while working with massive datasets. 
+
 ### Course 1: Data Modeling
 #### Intro to Data Modeling
 	1. Identify the different types of databases and storage techniques
