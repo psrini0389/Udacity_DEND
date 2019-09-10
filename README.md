@@ -36,7 +36,7 @@
 	1. Implement data lakes on Amazon S3, EMR, Athena and Amazon Glue
 	2. Understand the components and drawbacks of data lakes
 
-### Course 4: DataPipelines with Airflow
+### Course 4: Data Pipelines with Airflow
 #### Data Pipelines
 	1. Create Data Pipelines with Apache Airflow
 	2. Use hooks to create data connections and set dependencies
